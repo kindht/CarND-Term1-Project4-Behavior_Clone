@@ -7,7 +7,7 @@
 
 This is the 4th project in the course of Self-Driving Car at Udacity
 
-The project used deep neural networks and convolutional neural networks to clone driving behavior.
+The project used **deep neural networks and convolutional neural networks** to clone driving behavior.
 
 The project implemented a model with architecture similar to **PilotNet** using **Keras**.   
 The model output a steering angle to to an autonomous vehicle so that the vehicle could run on the track in simulator
