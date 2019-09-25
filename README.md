@@ -3,7 +3,8 @@
 
 [//]: # (Image References)
 
-[image]: ./Pass-certificate.png 
+[image0]: ./Car-Move.gif
+[image1]: ./Pass-certificate.png 
 
 This is the 4th project in the course of Self-Driving Car at Udacity
 
@@ -22,4 +23,6 @@ The steps involved in this project are the following:
  
  Check out  [Project Requirements](./Project-README.md)
  
- ![alt text][image]
+ ![alt text][image0]
+ 
+ ![alt text][image1]
