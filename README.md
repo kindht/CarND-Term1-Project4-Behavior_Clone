@@ -7,7 +7,7 @@
 
 This is the 4th project for the **Self-Driving Car Engineer** Nanodegree program at [Udacity](https://cn.udacity.com/course/self-driving-car-engineer--nd013)
 
-The project used **deep neural networks and convolutional neural networks** to clone driving behavior.
+The project used **deep neural networks and Convolutional Neural Networks** to clone driving behavior.
 
 The project implemented a model with architecture similar to **PilotNet** using **Keras**.   
 The model output a steering angle to to an autonomous vehicle so that the vehicle could run on the track in simulator
