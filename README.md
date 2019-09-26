@@ -21,8 +21,8 @@ The steps involved in this project are the following:
 
  Here is my source code [model.py](./model.py)  
  
- Here is my [Project Report/Writeup](./Project_Writeup.md)  
- Check out  [Project Requirements](./Project_README.md)
+ Here is my [Project Report/Writeup](./Project-Writeup.md)  
+ Check out  [Project Requirements](./Project-README.md)
  
  ![alt text][image0]
  
