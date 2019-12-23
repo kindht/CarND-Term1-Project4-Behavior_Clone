@@ -1,10 +1,6 @@
 # 无人驾驶纳米学位-第一学期-项目4-行为克隆 
 # CarND-Term1-Project4-Behavior_Clone (Python, Keras)
 
-[//]: # (Image References)
-[image0]: ./Car-Move.gif
-[image1]: ./Pass-certificate.png 
-
 This is the 4th project in term1 for the **Self-Driving Car Engineer** Nanodegree program at [Udacity](https://cn.udacity.com/course/self-driving-car-engineer--nd013)
 
 The project used **deep neural networks and Convolutional Neural Networks** to clone driving behavior.
@@ -24,6 +20,6 @@ The steps involved in this project are the following:
  Here is my [Project Report/Writeup](./Project-Writeup.md)  
  Check out  [Project Requirements](./Project-README.md)
  
- ![alt text][image0]
+ ![](./Car-Move.gif)
  
- ![alt text][image1]
+ ![](./Pass-certificate.png )
