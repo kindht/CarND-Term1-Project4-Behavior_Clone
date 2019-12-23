@@ -1,4 +1,4 @@
-# 无人驾驶纳米学位-Term1-项目4-行为克隆 
+# 无人驾驶纳米学位-第一学期-项目4-行为克隆 
 # CarND-Term1-Project4-Behavior_Clone (Python, Keras)
 
 [//]: # (Image References)
